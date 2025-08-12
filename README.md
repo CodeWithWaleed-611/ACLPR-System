@@ -98,7 +98,7 @@ Train the Model
 bash
 Copy
 Edit
-python train.py --data data.yaml --epochs 50 --weights yolov8n.pt
+python train.py --data config.yaml --epochs 50 --weights yolov8n.pt
 📊 Dataset
 The dataset contains images and annotated labels in YOLO format.
 
