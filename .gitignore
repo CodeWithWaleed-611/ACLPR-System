@@ -1,2 +1,18 @@
+#ignore python virtual environment
 .venv/
-venv/
+ven/
+ENV/
+
+# ignore python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# ignore dataset directory and outputs
+dataset_main/
+runs/
+output/
+
+# ignore OS files
+.DS_Store
+Thumbs.db
