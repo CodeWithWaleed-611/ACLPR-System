@@ -1,0 +1,8 @@
+path: C:\Users\Waleed Malik\Desktop\python files\PracticeFolder\dataset_main   #absolute path
+train: train\images
+val: valid\images
+test: test\images
+
+# Classes
+names:
+  0: License Plate
